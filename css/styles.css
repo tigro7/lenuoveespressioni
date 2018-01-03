@@ -5914,5 +5914,9 @@ button.close {
 }
 .parallax__layer--back {
   transform: translateZ(-1px) scale(2);
+
+.footer{
+    background-color: #6279B8;	
+    padding: 2% 2% 0 2%;
 }
 /*# sourceMappingURL=styles.css.map */
