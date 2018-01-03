@@ -5894,4 +5894,9 @@ button.close {
 .modal-img {
 	max-width: 600px;
 }
+
+.footer{
+    background-color: #6279B8;	
+    padding: 2% 2% 0 2%;
+}
 /*# sourceMappingURL=styles.css.map */
