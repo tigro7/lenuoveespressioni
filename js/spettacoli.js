@@ -48,9 +48,8 @@ function parseSpettacoli(xml) {
             $("#listaSpettacoli").html(nuovoHtml);
         }
         $(".infoBtn").click(function(){
-            
-            
-            
+            $("#carouselModalSpettacoli").find("ol").children().remove();
+            $("#carouselModalSpettacoli").find(".carousel-inner").children().remove();
             var dir = $(this).parents(".row").find("img").attr("src").replace(".jpg", "") + "/";
             var fileextension = ".jpg";
             $.ajax({
@@ -61,13 +60,12 @@ function parseSpettacoli(xml) {
                     $(data).find("a:contains(" + fileextension + ")").each(function () {
                         var filename = this.href.replace(window.location.host, "").replace("http://", "");
                         //console.log(filename);
-                        $("#carouselModalSpettacoli").find("ol").append('<li data-target="#carouselModalSpettacoli" data-slide-to="' + contatore + '"></li>');
+                        $("#carouselModalSpettacoli").find("ol").append('<li data-target="#carouselModalSpettacoli" data-slide-to="' + contatore + '" ' + (contatore == 0 ? "class='active'" : "") + '></li>');
                         contatore += 1;
                         $("#carouselModalSpettacoli").find(".carousel-inner").append('<div class="carousel-item ' + (contatore == 1 ? "active" : "") + '"><img class="d-block w-100" src="' + filename + '"></div>');
                     });
                 }
             });
-            $('.carousel-indicators > li').first().addClass('active');
             $('#carouselModalSpettacoli').carousel();
             
             //$("#spettacolo-modal").find(".modal-img").attr("src", $(this).parents(".row").find("img").attr("src"));
