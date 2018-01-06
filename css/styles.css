@@ -5847,15 +5847,11 @@ button.close {
     padding-bottom: 10px;
 }
 
-.contenutoPagina {
-    margin-top: 5%;
-    color: aliceblue;
-}
-
 .titoloPagina {
     text-align: center;
     color: white;
-    margin-bottom: 25%;
+    margin-top: 5%;
+    margin-bottom: 20%;
 }
 
 .titoloPagina h1{
@@ -5915,8 +5911,27 @@ button.close {
 .parallax__layer--back {
   transform: translateZ(-1px) scale(2);
 }
-.footer{
+footer{
+    margin-left:0%;
+    margin-right:0%;
     background-color: #6279B8;	
-    padding: 0% 2% 0 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    text-align: center;
+}
+
+.content-container
+{
+    margin-right:5%;
+    margin-left:5%;
+}
+
+.foot-element
+{
+    margin:1.5%;
+    font-size: 16px;
 }
 /*# sourceMappingURL=styles.css.map */
