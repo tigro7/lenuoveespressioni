@@ -9,13 +9,9 @@ function loadSpettacoli() {
   xhttp.send();
 }
 function parseSpettacoli(xml) {
-         // Parse the xml file and get data
+        // Parse the xml file and get data
         var xmlDoc = xml.responseXML;
-        //var xmlDoc = $.parseXML(xml),
-        //    $xml = $(xmlDoc);
         var listaSpettacoli = xmlDoc.getElementsByTagName("spettacolo");
-        // var contatore = 0;
-        //$(xmlDoc).find('spettacolo').each(function () {
         for (i = 0; i < listaSpettacoli.length; i++){
             console.log("spettacolo" + i.toString);
             var cardSpettacolo = '<div class="card spettacoloLight" id="spettacolo' + i.toString() + '">';
@@ -52,7 +48,30 @@ function parseSpettacoli(xml) {
             $("#listaSpettacoli").html(nuovoHtml);
         }
         $(".infoBtn").click(function(){
-            $("#spettacolo-modal").find(".modal-img").attr("src", $(this).parents(".row").find("img").attr("src"));
+            
+            
+            
+            var dir = $(this).parents(".row").find("img").attr("src").replace(".jpg", "") + "/";
+            var fileextension = ".jpg";
+            $.ajax({
+                url: dir,
+                success: function (data) {
+                    //List all .jpg file names in the page
+                    var contatore = 0;
+                    $(data).find("a:contains(" + fileextension + ")").each(function () {
+                        var filename = this.href.replace(window.location.host, "").replace("http://", "");
+                        //console.log(filename);
+                        $("#carouselModalSpettacoli").find("ol").append('<li data-target="#carouselModalSpettacoli" data-slide-to="' + contatore + '"></li>');
+                        contatore += 1;
+                        $("#carouselModalSpettacoli").find(".carousel-inner").append('<div class="carousel-item ' + (contatore == 1 ? "active" : "") + '"><img class="d-block w-100" src="' + filename + '"></div>');
+                    });
+                }
+            });
+            $('.carousel-indicators > li').first().addClass('active');
+            $('#carouselModalSpettacoli').carousel();
+            
+            //$("#spettacolo-modal").find(".modal-img").attr("src", $(this).parents(".row").find("img").attr("src"));
+            
             $("#spettacolo-modal").find(".modal-title").text($(this).parents(".row").find(".card-title").text());
             var newBody = $("#spettacolo-modal").find(".modal-body").text();
             newBody += $(this).parents(".row").find(".card-text").text();
