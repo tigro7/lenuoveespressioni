@@ -50,6 +50,7 @@ function parseSpettacoli(xml) {
         $(".infoBtn").click(function(){
             $("#carouselModalSpettacoli").find("ol").children().remove();
             $("#carouselModalSpettacoli").find(".carousel-inner").children().remove();
+            $("#spettacolo-modal").find(".modal-body").text("");
             var dir = $(this).parents(".row").find("img").attr("src").replace(".jpg", "") + "/";
             var fileextension = ".jpg";
             $.ajax({
@@ -58,7 +59,7 @@ function parseSpettacoli(xml) {
                     //List all .jpg file names in the page
                     var contatore = 0;
                     $(data).find("a:contains(" + fileextension + ")").each(function () {
-                        var filename = this.href.replace(window.location.host, "").replace("http://", "");
+                        var filename = this.href.replace(window.location, "").replace("http://", "");
                         //console.log(filename);
                         $("#carouselModalSpettacoli").find("ol").append('<li data-target="#carouselModalSpettacoli" data-slide-to="' + contatore + '" ' + (contatore == 0 ? "class='active'" : "") + '></li>');
                         contatore += 1;
