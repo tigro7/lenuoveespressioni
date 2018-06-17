@@ -7,12 +7,21 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 @font-face {
+/*
     font-family: "odinRegular";
     src:url("../src/OdinRounded-Regular.otf");
+*/
+    font-family: "markoOne";
+    src:url("../src/MarkoOne-Regular.ttf");
+}
+
+@font-face{
+    font-family: "sourceSans";
+    src:url("../src/SourceSansPro-Regular.ttf")
 }
 
 html {
-  font-family: "odinRegular";
+  font-family: "sourceSans";
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%; }
 
@@ -67,6 +76,7 @@ dfn {
   font-style: italic; }
 
 h1 {
+  font-family: "markoOne" !important;
   font-size: 2em;
   margin: 0.67em 0; }
 
@@ -1074,7 +1084,7 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0); }
 
 body {
-  font-family: "odinRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "sourceSans", "markoOne", "odinRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
   color: #333333;
@@ -5885,6 +5895,10 @@ button.close {
 #storiaCompagnia {
     background-color: #6279B8;
     font-size: 25px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
 }
 
 .modal-img {
@@ -5933,5 +5947,25 @@ footer{
 {
     margin:1.5%;
     font-size: 16px;
+}
+
+.card-title{
+    font-family: "markoOne";
+}
+
+.nav-pills .nav-link{
+    font-size: 20px;
+}
+
+.fotoattore{
+    -webkit-filter: grayscale(100%);
+}
+
+.fotoattore:hover{
+    -webkit-filter: grayscale(0%);
+}
+
+.testoQuote{
+    color: white;
 }
 /*# sourceMappingURL=styles.css.map */

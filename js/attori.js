@@ -33,12 +33,16 @@ function parseAttori(xml)
             {
                 strNome=$(listaAttori[i]).find("nome").text();
                 strImg=strNome.replace(' ','').toLowerCase();
-                strDesc=$(listaAttori[i]).find("descrizione").text();
+                strDesc=$(listaAttori[i]).find("descrizione").text().replace("è", "&eacute;").replace("é", "&egrave;");
 
                 tabAttori += '<div class="col-6 col-sm-2 placeholder">';
-                tabAttori += '<img src="img/attori/'+ strImg +'.jpg" width="200" height="200" class="img-fluid rounded-circle fotoattore" id="attore'+i.toString()+'" alt="Generic placeholder thumbnail">';
+                if (ImageExist("img/attori/" + strImg + ".jpg")){
+                    tabAttori += '<img src="img/attori/'+ strImg +'.jpg" width="200" height="200" class="img-fluid rounded-circle fotoattore" id="attore'+i.toString()+'">';
+                }else{
+                    tabAttori += '<img src="img/attori/'+ strImg +'.png" width="200" height="200" class="img-fluid rounded-circle fotoattore" id="attore'+i.toString()+'">';
+                }
                 tabAttori += '<h4>'+strNome+'</h4>';
-                tabAttori += '<div class="text-muted">' + $(listaAttori[i]).find("quote").text() + '</div>';
+                tabAttori += '<div class="testoQuote">' + $(listaAttori[i]).find("quote").text().replace("è", "&eacute;").replace("é", "&egrave;") + '</div>';
                 tabAttori += '</div>';
                 
                 tabDescrizione += '<div class="descrizioneattore" id="descrizione'+i.toString()+'">';
@@ -67,13 +71,22 @@ function parseAttori(xml)
             $("#descrizione"+this.id.replace("attore", "")).show();
         });
         $(".fotoattore").mouseover(function(){
-            this.src = this.src.toString().split(".jpg")[0]+"hover.jpg"; 
+            //this.src = this.src.toString().split(".jpg")[0]+"hover.jpg"; 
         })
         $(".fotoattore").mouseout(function(){
-            this.src = this.src.toString().split("hover.jpg")[0]+".jpg"; 
+            //this.src = this.src.toString().split("hover.jpg")[0]+".jpg"; 
         })
 }
 
 $(document).ready(function (){
     loadAttori();
 })
+
+function ImageExist(url) 
+{
+   var img = new Image();
+   img.src = url;
+   console.log (url);
+   console.log(img);
+   return img.height != 0;
+}
