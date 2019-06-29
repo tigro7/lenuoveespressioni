@@ -1,10 +1,32 @@
 ﻿<catalogo>
 
 <spettacolo>
+<titolo> Un Amore Senza Tempo </titolo>
+<short> Celebre dramma ambientato a Verona, teatro della storia, adattato a musical </short>
+<desc>
+Il pubblico si dovrà "sporgere" da un balcone per vedere l'arrivo dell'amato, poi dovrà "scappare" da parenti irritati e infine "nascondersi" in oscure cripte per poter vedere il tanto atteso lieto fine della famosissima storia d'amore. 
+Rispetto agli spettacoli precedenti le canzoni sono in italiano, ma non mancano gli sfarzosi costumi, confezionati per l'occasione e le spettacolari scenografie esaltate ad arte da un emozionante gioco di luci.
+Un Amore Senza Tempo rende giustizia all'originale Shakespeariano e permette a tutti di rivivere le forti emozioni che lo caratterizzano, senza che si avverta lo scorrere del tempo in queste due ore intense.
+</desc>
+<immagine>romeojuliet.jpg</immagine>
+</spettacolo>
+
+<spettacolo>
+<titolo> I Wanna Dance </titolo>
+<short>
+In un Pittsburgh industriale degli anni '80, si incrociano le storie di due coppie. 
+</short>
+<desc>
+Alex e Gloria sognano un futuro migliore: una nella danza, l'altra a Broadway. Tutto si complica quando Alex incontra Nick, il proprietario dell'acciaieria in cui lavora. La vita di Gloria invece prende una brutta svolta che la porterà a perdere di vista il suo obiettivo. Tra balli provocanti e canzoni iconiche seguiremo l'evoluzione non solo dell'amicizia, ma anche delle storie d'amore tra le coppie. Riusciranno Alex e Gloria a realizzare il loro sogno?
+</desc>
+<immagine>iwannadance.jpg</immagine>
+</spettacolo>
+
+<spettacolo>
 <titolo> Say I Do </titolo>
 <short> Piacevole commedia musicale ambientata su un'isola greca negli scintillanti anni '80 </short>
 <desc> Alla vigilia del matrimonio della figlia Sophie, Donna ritrova incredibilmente ospiti nel suo albergo i tre amanti con cui trascorse l'estate precedente alla nascita di Sophie. Nonostante un iniziale rifiuto, Donna è costretta ad accettare la situazione, salvo poi scoprire che è stata proprio la sposa ad invitarli, sicura che, una volta conosciuti, sarebbe stata in grado di riconoscere quale fra essi sia il suo vero padre.
-Una trama molto piacevole, condita con manciate di paiette, boa colorati e pinne; il tutto, accompagnato dal travolgente ritmo del pop anni '80, permette a "Say I Do" di essere godibile da una platea di qualsiasi età.</desc>
+Una trama molto piacevole, condita con manciate di paiette, boa colorati e pinne; il tutto, accompagnato dal travolgente ritmo del pop anni '80, permette a “Say I Do” di essere godibile da una platea di qualsiasi età.</desc>
 <immagine>sayido.jpg</immagine>
 </spettacolo>
 
@@ -13,7 +35,7 @@ Una trama molto piacevole, condita con manciate di paiette, boa colorati e pinne
 <short> Il dramma di un nobile principe caduto in disgrazia, alla ricerca del vero amore per spezzare la maledizione che lo affligge. </short>
 <desc> Un giorno, il principe di una nobile e potente casata negò l'aiuto ad una povera mendicante che si presentò alle porte del suo castello. Rigettata malamente e ferita nell'orgoglio, la vecchia mendicante rivelò la sua vera identità di strega e lanciò una terribile maledizione sul principe. Il suo aspetto divenne terribile, paragonabile a quello di una bestia, mentre i suoi fidati servitori vennero trasformati in oggetti.
 Ripudiato da tutti coloro che un tempo lo rispettavano, il cuore del principe è ormai diventato arido e privo di sentimenti. L'unico modo per annullare la maledizione è quello di tornare ad amare qualcuno, in modo puro e vero, prima che la rosa piantata nella torre del castello perda il suo ultimo petalo.
-"Tra Realtà e Magia" è quindi l'interpretazione di un grande classico, che grazie all'inconfondibile tocco de "Le Nuove Espressioni" viene arricchito di musiche e balli per accompagnare lo svolgimento della trama e renderla più godibile anche ai più piccoli.</desc>
+“Tra Realtà e Magia” è quindi l'interpretazione di un grande classico, che grazie all'inconfondibile tocco de “Le Nuove Espressioni” viene arricchito di musiche e balli per accompagnare lo svolgimento della trama e renderla più godibile anche ai più piccoli.</desc>
 <immagine>trarealtaemagia.jpg</immagine>
 </spettacolo>
     
@@ -41,7 +63,7 @@ Il musical, acclamato da tutta la critica, è sicuramente coinvolgente per la st
 <spettacolo>
 <titolo> Tasche Vuote Cuore in Festa </titolo>
 <short> Vita morte e miracoli del poverello da Assisi </short>
-<desc>Attraverso la voce di Pietro di Bernardone, padre di Francesco e della Cenciosa, poverella del paese, il musical narra la vita di San Francesco D'Assisi. A partire dalla scena in cui Francesco si spoglia dei suoi abiti borghesi e attraverso le canzoni il pubblico entra in contatto con il frate e con gli eventi che caratterizzarono la sua vita: l'incontro con Chiara che decide di indossare l'abito da monaca e seguirlo, il riconoscimento ufficiale della congregazione francescana a Roma dal Papa, la "predica agli uccelli" (uno degli eventi più conosciuti della vita di Francesco), lo scontro con il lupo, fino ad arrivare al perdono del padre dopo la morte.
+<desc>Attraverso la voce di Pietro di Bernardone, padre di Francesco e della Cenciosa, poverella del paese, il musical narra la vita di San Francesco D'Assisi. A partire dalla scena in cui Francesco si spoglia dei suoi abiti borghesi e attraverso le canzoni il pubblico entra in contatto con il frate e con gli eventi che caratterizzarono la sua vita: l'incontro con Chiara che decide di indossare l'abito da monaca e seguirlo, il riconoscimento ufficiale della congregazione francescana a Roma dal Papa, la “predica agli uccelli” (uno degli eventi più conosciuti della vita di Francesco), lo scontro con il lupo, fino ad arrivare al perdono del padre dopo la morte.
 </desc>
 <immagine>taschevuotecuoreinfesta.jpg</immagine>
 </spettacolo>
@@ -56,8 +78,8 @@ La vita della famiglia Banks viene sconvolta dal momento in cui la vecchia gover
 Dubitando della sbadata moglie Winifred quanto alle sue capacità di trovare una badante efficiente, il banchiere George Banks fa un annuncio sul Times per cercare la perfetta babysitter per i suoi figli.
 Nel frattempo anche i piccoli Jane e Michael si industriano per la ricerca e compongono una filastrocca nella quale descrivono la loro governante ideale e la fanno ascoltare al papà che però non apprezza e straccia il testo gettandolo nel camino. 
 Il giorno successivo fuori da casa Banks si presenta Mary Poppins, una super tata richiamata non tanto dall'annuncio del vecchio George ma magicamente da quello dei due piccoli bambini. 
-La storia prosegue con le avventure di Mary Poppins e dei bambini tra canzoni della buona notte e viaggi da sogno all'interno di paesaggi disegnati sui marciapiedi... insomma niente di normale e niente di meglio per i due piccoli Banks. Oltre le vicende della tata e dei bimbi, viene anche narrata la storia dei coniugi Banks: il rigido e serio banchiere George e la femminista incallita Winifred seguita dalle sue tre simpatiche cameriere. Storie che si intrecceranno con quella della tata durante la celebre canzone degli spazzacamini capeggiati dal simpatico Bert, amico di vecchia data di Mery Poppins...
-Lo spettacolo è stato amato da spettatori di tutte le età specialmente per le rocambolesche coreografie che hanno davvero messo alla prova per la prima volta l'intera compagnia con il grande "scoglio" della danza.
+La storia prosegue con le avventure di Mary Poppins e dei bambini tra canzoni della buona notte e viaggi da sogno all'interno di paesaggi disegnati sui marciapiedi... insomma niente di normale e niente di meglio per i due piccoli Banks. Oltre le vicende della tata e dei bimbi, viene anche narrata la storia dei coniugi Banks: il rigido e serio banchiere George e la femminista incallita Winnifred seguita dalle sue tre simpatiche cameriere. Storie che si intrecceranno con quella della tata durante la celebre canzone degli spazzacamini capeggiati dal simpatico Bert, amico di vecchia data di Mary Poppins...
+Lo spettacolo è stato amato da spettatori di tutte le età specialmente per le rocambolesche coreografie che hanno davvero messo alla prova per la prima volta l'intera compagnia con il grande “scoglio” della danza.
 </desc>
 <immagine>salviamolafamigliabanks.jpg</immagine>
 </spettacolo>
@@ -74,13 +96,20 @@ Con “Olimpici” costumi di scena e scenografie imponenti come l'indimenticabi
 </desc>
 <immagine>herkules.jpg</immagine>
 </spettacolo>
-    
+ 
+<spettacolo>
+<titolo> I Soliti Idioti </titolo>
+<short> Una serie di sketch apparentemente scollegati...</short>
+<desc> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tincidunt nisi nec gravida hendrerit. Donec mattis metus a nisl porttitor, at gravida nunc cursus. Nulla facilisi. Morbi non aliquam sem, eu placerat lacus. Nullam elementum nunc urna, at porta elit efficitur id. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus porttitor consequat odio, a dictum tellus volutpat ac. Phasellus pulvinar nibh sed bibendum bibendum. Donec venenatis at ante ac cursus. Donec vitae nibh nec libero egestas aliquet. Vestibulum scelerisque ante leo, ut mattis felis tincidunt a. Quisque in volutpat turpis. Mauris tempus ligula nec nunc viverra, eu ullamcorper urna consectetur. Nullam scelerisque, nibh id iaculis rhoncus, neque mi lacinia leo, nec eleifend risus nunc a metus. Sed at ipsum lacinia, auctor lacus in, efficitur ante.</desc>
+<immagine>isolitiidioti.jpg</immagine>
+</spettacolo>
+
 <spettacolo>
 <titolo> Su di Noi Nemmeno una Nuvola </titolo>
-<short> Un parroco di perferia, una peperonata, un sogno molto movimentato. Questo è il punto di partenza.</short>
+<short> Un parroco di periferia, una peperonata, un sogno molto movimentato. Questo è il punto di partenza.</short>
 <desc> Liberamente tratto dalla commedia musicale di Garinei e Giovannini “Aggiungi un posto a tavola”, è stato il primo spettacolo messo in scena dalla Compagnia che, nel lontano 2006, era composta da ragazzi poco più che adolescenti.
 Don Giulio, il giovane parroco di un piccolo paese, è tormentato dagli impegni ecclesiastici e questi suoi pensieri si tramutano in sogni strani e assurdi... Una notte, anche grazie a una certa quantità di peperonata mangiata a cena, sogna di ricevere una "inaspettata" telefonata, dall'altro capo della cornetta c'è Dio in persona che gli ordina di preparare un'arca in vista di un secondo diluvio universale che sarebbe scoppiato di lì a breve. In scena, a fianco di Dio c'è anche il suo prode e fedele angelo Gabriele, irriverente e cinico cherubino dalla battuta sempre pronta.
-La commedia prosegue con il giovane Don confuso, spaventato e anche incredulo che inizia i preparativi per l'arca aiutato dall'intero paese ma anche intralciato da mille inconvenienti primo tra tutti il Sindaco del paese che cercherà di mettergli i bastoni tra le ruote. Non manca anche una nota d'amore infatti Martina, la figlia del sindaco, è (non tanto) segretamente innamorata di lui e fa di tutto per potergli stare vicino...
+La commedia prosegue con il giovane parroco confuso, spaventato e anche incredulo che inizia i preparativi per l'arca aiutato dall'intero paese ma anche intralciato da mille inconvenienti primo tra tutti il Sindaco del paese che cercherà di mettergli i bastoni tra le ruote. Non manca anche una nota d'amore infatti Martina, la figlia del sindaco, è (non tanto) segretamente innamorata di lui e fa di tutto per potergli stare vicino...
 Filo conduttore durante tutta la storia è la presenza di tre simpaticissime vecchiette che ascoltano le storie dei protagonisti capendo ben poco di quello che sta succedendo.
 La commedia ha avuto un enorme successo, dovuto anche all'entusiasmo della novità: questo spettacolo è stato per molti attori della compagnia la prima esperienza su un palco. Lo spettacolo è stato replicato più di dieci volte nei teatri della zona ricevendo sempre riscontri positivi; sarà forse anche per questo che il ricordo di “Su di noi nemmeno una nuvola” avrà sempre un posto speciale nel cuore di ciascun “veterano” della compagnia.
 </desc>
