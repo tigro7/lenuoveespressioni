@@ -5419,7 +5419,11 @@ button.close {
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  width: 768px;
+  width: 100%;
+}
+
+#spettacolo-modal .carousel-inner{
+    width: 768px;
     height: 511px;
 }
   .carousel-inner > .item {
@@ -5838,6 +5842,10 @@ button.close {
 	width: 350px;
 }
 
+#spettacolo-modal .modal-title{
+    text-align: center;
+}
+
 .fixed-container {
     position: fixed;
     width: 100%;
@@ -5893,6 +5901,10 @@ button.close {
 #listaAttori {
     background-color: #6279B8;
     padding: 2% 5% 0 5%;
+}
+
+#listaAttori img{
+    cursor: pointer;
 }
 
 #storiaCompagnia {
@@ -5971,4 +5983,9 @@ footer{
 .testoQuote{
     color: white;
 }
+
+.fotoBtn{
+    margin: 10px;
+}
+
 /*# sourceMappingURL=styles.css.map */

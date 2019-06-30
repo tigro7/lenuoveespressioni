@@ -1,180 +1,195 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="latin-1" ?>
 
 <catalog>
 <attore>
     <nome>Chiara Alpi</nome>
     <quote>"Lavoro per uomo, tu lavori per George Clooney"</quote>
-    <descrizione>Ha preso parte a: I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Stefania Belotti</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Emanuele Belotti</nome>
     <quote>"Non venite in proscenio!"</quote>
-    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
+</attore>
+<attore>
+    <nome>Silvia Borgonovo</nome>
+    <quote></quote>
+    <descrizione>Ha preso parte a: Un Amore Senza Tempo</descrizione>
+</attore>
+<attore>
+    <nome>Matteo Bosisio</nome>
+    <quote></quote>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti (?), Herkules, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Davide Brambilla</nome>
     <quote>"Chi mi ha spento i capelli?"</quote>
-    <descrizione>Ha preso parte a: I Soliti Idioti, Herkules, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: I Soliti Idioti, Herkules, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Stefano Carpedi</nome>
-    <quote>"Niente purghe né clisteri"</quote>
-    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <quote>"Niente purghe n&#233; clisteri"</quote>
+    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Greta Cataldi</nome>
-    <quote>"Questa è roba mia!"</quote>
-    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <quote>"Questa &#232; roba mia!"</quote>
+    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Luca Cermenati</nome>
     <quote>"Vi dichiaro mariti e mogli"</quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Samuele Colombo</nome>
     <quote>"Tempo ideale per i fagioli"</quote>
-    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do</descrizione>
+    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do</descrizione>
 </attore>
 <attore>
     <nome>Elisa Cometti</nome>
     <quote>"Posti esotici, intrepidi duelli e un principe misterioso"</quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Debora Conventi</nome>
-    <quote>"Perché con tutta questa tecnologia non hanno ancora inventato una macchina per rifare i letti?"</quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <quote>"Perch&#233; con tutta questa tecnologia non hanno ancora inventato una macchina per rifare i letti?"</quote>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Micaela Cuzzolin</nome>
     <quote>"Oppa!"</quote>
-    <descrizione>Ha preso parte a: E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Desiree Fossati</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia</descrizione>
 </attore>
 <attore>
     <nome>Martina Gentile</nome>
     <quote>"Eh... Non ci stava l'asciugacapelli..."</quote>
-    <descrizione>Ha preso parte a: Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Stefano Maggioni</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni</descrizione>
+    <descrizione>Ha preso parte a: Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Debora Maistrello</nome>
     <quote>""</quote>
-    <descrizione>Ha preso parte a: Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Regana Marchitelli</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia</descrizione>
+</attore>
+<attore>
+    <nome>Federico Martino</nome>
+    <quote></quote>
+    <descrizione>Ha preso parte a: Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Marco Monaco</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Davide Monaco</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do</descrizione>
+    <descrizione>Ha preso parte a: I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do</descrizione>
 </attore>
 <attore>
     <nome>Simone Murdaca</nome>
-    <quote>"Regola numero 127 bis: è vietato l'utilizzo di ogni apparecchio elettronico"</quote>
-    <descrizione>Ha preso parte a: Say I Do, I Wanna Dance</descrizione>
+    <quote>"Regola numero 127 bis: &#232; vietato l'utilizzo di ogni apparecchio elettronico"</quote>
+    <descrizione>Ha preso parte a: Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Paola Nespoli</nome>
     <quote></quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Paola Oltolini</nome>
     <quote>"Ho portato le caramelle"</quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Alessandro Pogliani</nome>
     <quote>"Stia con noi!"</quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Andrea Pogliani</nome>
     <quote>"Ho fatto un salto per dire: ciao!"</quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Greta Ronchi</nome>
     <quote>"Cha-Ciao!"</quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Marta Ronchi</nome>
     <quote>"Con questo ho sudato in posti in cui non si dovrebbe sudare"</quote>
-    <descrizione>Ha preso parte a: E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Willjam Ronchi</nome>
     <quote>"Il pozzo non te lo faccio!"</quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Federica Ronchi</nome>
     <quote>"Una passeggiatina eh..."</quote>
-    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Franca Sanfilippo</nome>
     <quote>"Per le sette ho finito!"</quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Giulia Sansevrino</nome>
     <quote>"Mi accompagni tu all'altare mamma?"</quote>
-    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Aurora Santambrogio</nome>
     <quote>"La torta l'ha fatta mia madre"</quote>
-    <descrizione>Ha preso parte a: E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Simone Sarzi</nome>
     <quote>"Non mi tentare ragazzina!"</quote>
-    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Gaia Seveso</nome>
     <quote>"Miao miao!"</quote>
-    <descrizione>Ha preso parte a: Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Alberto Tiribelli</nome>
     <quote>"Io sono Dio, tu no!"</quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance, Un Amore Senza Tempo</descrizione>
 </attore>
 <attore>
     <nome>Lizzy Turri</nome>
-    <quote>"Signora Campanelli, donna russa fatta così!"</quote>
-    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <quote>"Signora Campanelli, donna russa fatta cos&#236;!"</quote>
+    <descrizione>Ha preso parte a: Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 <attore>
     <nome>Roberta Vago</nome>
     <quote>"Tra le pampine dell'orto c'era la zucca di un uomo morto"</quote>
-    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realtà e Magia, Say I Do, I Wanna Dance</descrizione>
+    <descrizione>Ha preso parte a: Su di Noi Nemmeno una Nuvola, I Soliti Idioti, Herkules, Salviamo la Famiglia Banks, Tasche Vuote Cuore in Festa, Una Valanga di Matrimoni, E... State Insieme, Tra Realt&#224; e Magia, Say I Do, I Wanna Dance</descrizione>
 </attore>
 </catalog>
 
