@@ -3153,6 +3153,11 @@ input[type="button"].btn-block {
   .collapse.in {
     display: block; }
 
+.collapse.show{
+    border-top: white 2px solid;
+    border-bottom: white 2px solid;
+}
+
 tr.collapse.in {
   display: table-row; }
 
